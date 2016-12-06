@@ -2,6 +2,12 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>NSMotionUsageDescription</key>
+	<string>&quot;let&apos;s motion&quot;</string>
+	<key>NSLocationUsageDescription</key>
+	<string>&quot;location usage&quot;</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>When in use</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleExecutable</key>
